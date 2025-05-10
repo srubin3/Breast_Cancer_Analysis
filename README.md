@@ -6,4 +6,5 @@ This is an independent and ongoing project that will showcase a structured analy
 My goal is to grow, improve, and refine my skills in data cleaning, exploratory data analysis (EDA), visualizations, while incorporating advanced techniques beyond my Fullstack Academy training - such as Principal Component Analysis and machine learning to derive meaningful insights from this data.
 
 Work Cited: 
+
 Wolberg, William, et al. "Breast Cancer Wisconsin (Diagnostic)." UCI Machine Learning Repository, 1993, https://doi.org/10.24432/C5DW2B.
