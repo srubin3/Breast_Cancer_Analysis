@@ -1,5 +1,5 @@
 # Breast Cancer Analysis
-This project analyzes the **Breast Cancer Wisonsin Diagnostic Dataset** to predict whether a tumor is *benign* or *malignant* using numerical features. This project is an independent project, to determine whether numerical features can be used to distinguish between benign and malignant tumors. 
+This project analyzes the **Breast Cancer Wisconsin Diagnostic Dataset** to predict whether a tumor is *benign* or *malignant* using numerical features. 
 
 The primary goal is to determine whether numerical features, such as mean radius, texture, and concavity, could effectively distinguish between benign and malignant tumors. Through a structured analytical approach, this project emphasizes **data cleaning**, **exploratory data analysis (EDA)**, and **visualizations** while building a logical narrative around the data. The analysis culminates in **predictive modeling** to test the hypothesis. 
 
